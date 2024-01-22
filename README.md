@@ -16,7 +16,6 @@ Our team collaboratively developed a line follower, a robotic system designed to
                       
 </details>
 
-<details>
   <summary> 
      <h2> Task Requirements 🥥 </h2>
   </summary>
@@ -63,7 +62,7 @@ Our team collaboratively developed a line follower, a robotic system designed to
  
 <details>
   <summary> 
-     <h2> BEST TIME 🌴 </h2>
+     <h2> Best time 🌴 </h2>
   </summary>
   That's awesome! Zambila's best time was around 18.24 seconds, if I remember correctly. It surprised us so much that it worked so well that we didn't even get a chance to film it in action. The excitement of seeing it perform brilliantly took us by surprise! 🚗✨
 </details>
@@ -93,9 +92,6 @@ Our team collaboratively developed a line follower, a robotic system designed to
 <img width="230" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/51f9f993-7c2b-4aae-9d63-e3d3314ce919">
 
 
-
-</details>
-
-### 📽 Video : [ LINE FOLLOWER 🌴 ]()
+### 📽 Video : [ LINE FOLLOWER 🌴 ](https://youtu.be/r3CJOg_bMIA)
 ### 🖥 Code : [ The Code 🌴 ](https://youtu.be/r3CJOg_bMIA)
 
