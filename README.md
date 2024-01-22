@@ -10,9 +10,12 @@ Our team collaboratively developed a line follower, a robotic system designed to
     <h2> Description 🥥 </h2>
   </summary>
 
-                      Our Malibu team teamed up for an exciting project – creating a smart robot known as a line follower ( Zambila ). The three of us carefully crafted                           this cool robot. Our main goal? To make a robot that could follow a black line on a different-colored surface all on its own. The challenge was to 
-                      guide it through a set path and finish in under 20 seconds. We nailed it by combining sensors, precise building, and clever programming. Our line 
-                      follower not only met the tough requirements but also showcased the awesome skills and teamwork within the Malibu crew!
+     Our Malibu team teamed up for an exciting project – creating a smart robot known as a line follower ( Zambila ). 
+     The three of us carefully crafted this cool robot. Our main goal? 
+     To make a robot that could follow a black line on a different-colored surface all on its own. 
+     The challenge was to guide it through a set path and finish in under 20 seconds. 
+     We nailed it by combining sensors, precise building, and clever programming. 
+     Our line follower not only met the tough requirements but also showcased the awesome skills and teamwork within the Malibu crew!
                       
 </details>
 <details>
