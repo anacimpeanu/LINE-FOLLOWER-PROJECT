@@ -15,7 +15,7 @@ Our team collaboratively developed a line follower, a robotic system designed to
                       follower not only met the tough requirements but also showcased the awesome skills and teamwork within the Malibu crew!
                       
 </details>
-
+<details>
   <summary> 
      <h2> Task Requirements 🥥 </h2>
   </summary>
@@ -86,12 +86,15 @@ Our team collaboratively developed a line follower, a robotic system designed to
   <summary>
 <h2>📸 Zambila </h2>
   </summary>
-<img width="230" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/cc36976d-97a7-4cc1-b856-d143a856b5be">
-<img width="230" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/b157087a-3f26-4a1c-ae38-0516e4ed4b3a">
-<img width="230" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/de0f2586-34f7-4bc3-9e80-eaaee3a896ab">
-<img width="230" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/51f9f993-7c2b-4aae-9d63-e3d3314ce919">
+<img width="300" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/cc36976d-97a7-4cc1-b856-d143a856b5be">
+<img width="300" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/bcaaf5a9-cb40-4d85-85bf-36c2da39458a">
 
+<img width="300" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/bfd30a8d-2404-4026-8f41-00bd22bdbdb8">
+<div align="center">  
+<img width="500" alt="image" src="https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/assets/115561036/51f9f993-7c2b-4aae-9d63-e3d3314ce919">
+</div>
+</details>
 
 ### 📽 Video : [ LINE FOLLOWER 🌴 ](https://youtu.be/r3CJOg_bMIA)
-### 🖥 Code : [ The Code 🌴 ](https://youtu.be/r3CJOg_bMIA)
+### 🖥 Code : [ The Code 🌴 ](https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/blob/main/LINE%20FOLLOWER.ino)
 
